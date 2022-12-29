@@ -13,9 +13,9 @@
     "title": "Norwegian AI Hyperlink Network"
   },
   "legend": {
-    "edgeLabel": "On the edge",
+    "edgeLabel": "Hyperlink from website",
     "colorLabel": "Grey",
-    "nodeLabel": "Banana Node"
+    "nodeLabel": "AI-related website"
   },
   "features": {
     "search": true,
@@ -30,7 +30,7 @@
     "drawingProperties": {
       "defaultEdgeType": "curve",
       "defaultHoverLabelBGColor": "#002147",
-      "defaultLabelBGColor": "#ddd",
+      "defaultLabelBGColor": "#adc2e4",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
       "labelThreshold": 10,
