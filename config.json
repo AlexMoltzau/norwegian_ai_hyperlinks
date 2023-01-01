@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "Hyperlink from website",
-    "colorLabel": "Grey",
+    "colorLabel": "Category (academic = green, industry = red, startup = purple, government = yellow.",
     "nodeLabel": "AI-related website"
   },
   "features": {
